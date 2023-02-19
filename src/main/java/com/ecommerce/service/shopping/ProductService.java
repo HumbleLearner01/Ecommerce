@@ -13,7 +13,7 @@ import java.util.List;
 public class ProductService {
     private final ProductRepository productRepo;
 
-    //add category
+    //add product
     public Product save(Product product) {
         return productRepo.save(product);
     }
