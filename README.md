@@ -10,13 +10,13 @@ This is a simple ecommerce web application where users can sign up, log in, and 
 - Order tracking
 
 ### Technologies Used
-Spring Boot
-Spring Data JPA
-MySQL
-Hibernate
-Spring Security
-JWT authentication
-Java Mail
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Hibernate
+- Spring Security
+- JWT authentication
+- Java Mail
 
 ### Getting Started
 **Prerequisites**
